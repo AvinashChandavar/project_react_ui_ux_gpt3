@@ -1,0 +1,12 @@
+1. For Gradient
+   https://angrytools.com/gradient/
+
+2. For Animation
+   https://animista.net/play/basic   
+
+
+3. CSS Name is called BEM -> Block Element MOdifier
+                       ex -> gtp3__navbar
+                             gtp3__navbar-links
+
+4. 
